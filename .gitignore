@@ -1,0 +1,4 @@
+# Local working files only — never meant to be pushed to this repo.
+# The repo's tracked content is "educational/" (published, live-referenced videos).
+/educational-builds/
+/oChats-avatar-ep1/
